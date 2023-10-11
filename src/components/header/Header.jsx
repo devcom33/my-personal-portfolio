@@ -18,7 +18,7 @@ const Header = () => {
         </div>
         <HeaderSocial/>
         <div className="me animate__animated animate__fadeInDown animate__faster">
-          {/* <img src={ME} alt="me"/> */}
+          <img src={ME} alt="me"/>
         </div>
 
         <a href="#contact" className='scroll__down'>Scroll Down</a>
